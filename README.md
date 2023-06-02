@@ -13,9 +13,13 @@ On top of this, I have gone back to several old versions to combine multiple bot
 Share Code: QKJRM 
 
 Patch Notes:
+   - Fixed Shrek bot's ability to deflect the ball. Should be working properly now.
+   - Changed position of the "Bot Enabled" indicator to prevent it from moving side-to-side with long names on the kill-feed.
    - Fixed the bug where God Bot only worked when there was 2 or more players in the lobby.
    - Removed the previous round ball speed from HUD to prevent filling up the left side of the screen.
 
+Known Issues:
+   - Jimothy still can't deflect the ball
 
 
 
@@ -29,6 +33,7 @@ Patch Notes:
 
 Known Issues:
    - God only works when there is 2 or more players
+   - Jimothy and Shrek can't deflect the ball (found later on)
 
 
 
