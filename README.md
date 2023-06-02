@@ -7,7 +7,6 @@ On top of this, I have gone back to several old versions to combine multiple bot
 
 I plan to keep it updated to the latest version of Genji Dodgeball.
 
-### Extra Info
 
 **Current Bots:** Jimothy, Shrek, GOD, and Nubgenji
 
