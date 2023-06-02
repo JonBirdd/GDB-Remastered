@@ -20,6 +20,7 @@ Patch Notes:
 
 Known Issues:
    - Jimothy still can't deflect the ball
+   - When changing the Nubgenji bot amount or difficulty slider, you may need to reselect nubgenji or preform some other change on the page as the slider does not always update game settings.
 
 
 
