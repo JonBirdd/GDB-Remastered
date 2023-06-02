@@ -10,7 +10,7 @@ On top of this, I have gone back to several old versions to combine multiple bot
 # Version History:
 
 ## Version 1.2.0 
-**Share Code: QKJRM 
+** Share Code: QKJRM**
 
 Patch Notes:
    - Fixed Shrek bot's ability to deflect the ball. Should be working properly now.
@@ -25,7 +25,7 @@ Known Issues:
 
 
 ## Version 1.1.0 
-**Share Code: 18AEA 
+**Share Code: 18AEA**
 
 Patch Notes:
    - Added Jimothy
@@ -40,7 +40,7 @@ Known Issues:
 
 
 ## Version 1.0.0 
-**Share Code: 8W0CD 
+**Share Code: 8W0CD**
 
 Patch Notes:
    - Added Nubgenji
