@@ -1,10 +1,16 @@
 # GDB-Remastered
 
-GDB Remastered is an edited version of Mazawrath's Genji Dodgeball
+GDB Remastered is an edited version of Mazawrath's Genji Dodgeball (currently 7.9.1)
 
 In this version, I take community suggestions to fix, update or add any desired features.
 On top of this, I have gone back to several old versions to combine multiple bots to one, updated, stable version to use where you can simply select the bots you wish to use.
 
+I plan to keep it updated to the latest version of Genji Dodgeball.
+
+**Current Bots:** Jimothy, Shrek, GOD, and Nubgenji
+
+Quick Tip: Wish to have a chill skrim / practice session alone, or with friends? 
+    Enable 2x of the Nubgenji bot, and turn on the Endless/Respawn mode! Enjoy an endless round of Genji Dodgeball!
 
 
 # Version History:
