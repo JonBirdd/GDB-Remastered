@@ -6,10 +6,11 @@ In this version, I take community suggestions to fix, update or add any desired 
 On top of this, I have gone back to several old versions to combine multiple bots to one, updated, stable version to use where you can simply select the bots you wish to use.
 
 
-## Version History:
 
-### Version 1.1.0 
-Share Code: 8W0CD 
+# Version History:
+
+## Version 1.1.0 
+Share Code: 18AEA 
 
 Patch Notes:
    - Added Jimothy
@@ -20,7 +21,9 @@ Known Issues:
    - God only works when there is 2 or more players
 
 
-### Version 1.0.0 
+
+
+## Version 1.0.0 
 Share Code: 8W0CD 
 
 Patch Notes:
