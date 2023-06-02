@@ -6,10 +6,10 @@ In this version, I take community suggestions to fix, update or add any desired 
 On top of this, I have gone back to several old versions to combine multiple bots to one, updated, stable version to use where you can simply select the bots you wish to use.
 
 
-###Version History:
+### Version History:
 
-####v1.0.0
-#####Code: 8W0CD
-######Patch Notes:
+#### v1.0.0
+##### Code: 8W0CD
+###### Patch Notes:
    - Nubgenji
    - Fixed Firebending Map Radius
