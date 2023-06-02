@@ -1,6 +1,6 @@
 # GDB-Remastered
 
-GDB Remastered is an edited version of Mazawrath's Genji Dodgeball (currently 7.9.1)
+GDB Remastered is an edited version of Mazawrath's Genji Dodgeball __(currently 7.9.1)__
 
 In this version, I take community suggestions to fix, update or add any desired features.
 On top of this, I have gone back to several old versions to combine multiple bots to one, updated, stable version to use where you can simply select the bots you wish to use.
