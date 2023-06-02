@@ -8,9 +8,21 @@ On top of this, I have gone back to several old versions to combine multiple bot
 
 ## Version History:
 
-### v1.0.0 
+### Version 1.1.0 
 Share Code: 8W0CD 
 
 Patch Notes:
-   - Nubgenji
+   - Added Jimothy
+   - Added Shrek
+   - Added God
+
+Known Issues:
+   - God only works when there is 2 or more players
+
+
+### Version 1.0.0 
+Share Code: 8W0CD 
+
+Patch Notes:
+   - Added Nubgenji
    - Fixed Firebending Map Radius
