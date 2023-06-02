@@ -34,7 +34,7 @@ Patch Notes:
 
 Known Issues:
    - God only works when there is 2 or more players
-   - Jimothy and Shrek can't deflect the ball (found later on)
+   - Jimothy and Shrek can't deflect the ball
 
 
 
