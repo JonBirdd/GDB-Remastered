@@ -9,6 +9,16 @@ On top of this, I have gone back to several old versions to combine multiple bot
 
 # Version History:
 
+## Version 1.2.0 
+Share Code: QKJRM 
+
+Patch Notes:
+   - Fixed the bug where God Bot only worked when there was 2 or more players in the lobby.
+   - Removed the previous round ball speed from HUD to prevent filling up the left side of the screen.
+
+
+
+
 ## Version 1.1.0 
 Share Code: 18AEA 
 
